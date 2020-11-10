@@ -1,4 +1,7 @@
-﻿using static System.Console; // För att kunna ta bort Console.
+﻿/*
+**** Emmy Adolfsén, emad1800@student.miun.se, HT2020, DT071G ***
+*/
+using static System.Console; // För att kunna ta bort Console.
 using System;
 
 namespace Moment2
